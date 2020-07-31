@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Newly World-Modified Page!</h2>
+<h2>CI/CD Pipeline including Docker, Jenkins and Maven!</h2>
 </body>
 </html>
